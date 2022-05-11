@@ -1,0 +1,401 @@
+OBJECTNUMMER,Naam,Adres,Stemdistrict,Toegankelijkheid_code,Toegankelijkheid,Open_speciaal,Openingstijden,Stadsdeel,LNG,LAT
+1,Stadhuis,Amstel 1,001-002,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.900.158,52.367.597
+2,Universiteitsbibliotheek Amsterdam,Singel 425,3,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.889.718,52.367.679
+3,Leger des Heils,Oudezijds Achterburgwal 45,4,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.899.359,52.373.543
+4,Kensho Premium Fitness,Czaar Peterstraat 22,5,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.927.938,52.368.948
+5,OBS De Witte Olifant,Nieuwe Batavierstraat 2,6,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.904.181,52.370.274
+6,Voormalige Stadstimmertuin,Voorm Stadstimmertuin 4-6,7,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.905.703,52.361.283
+7,OBS De Witte Olifant,Gymlokaal tegenover Lastageweg 4-18,8,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.902.697,52.373.099
+8,Brandweer Kazerne Hendrik,Marnixstraat 170,9,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.875.699,52.372.527
+9,Cultura Nederland,Singel 46,10,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.892.701,52.378.019
+10,Ouder-Kind teams Amsterdam,Kraijenhoffstraat 32 C,11,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.930.003,52.369.468
+11,Theo Thijssenschool,Anjeliersstraat 153,12,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.881.108,52.377.215
+12,Korfbalvereniging Swift,Plantage Parklaan 20 A,13,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.909.754,52.368.184
+13,De Vinse School,Palmstraat 7,15,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.884.626,52.381.714
+14,Jeugdtheater De Krakeling,Nieuwe Passeerdersstraat 1,18,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.879.117,52.366.421
+15,Ouder-Kind teams Amsterdam,Kraijenhoffstraat 32 C,20,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.930.003,52.369.468
+16,American Hotel Amsterdam,Leidsekade 97,21,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.881.026,52.363.823
+17,Motivaction International BV,Marnixkade 109 F,23,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.876.549,52.375.236
+18,Het Claverhuis,Elandsgracht 70,24,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.880.913,52.369.853
+19,Huis van de Buurt De Boomsspijker,Recht Boomssloot 52,25,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.903.488,52.371.951
+20,Kerk De Duif,Prinsengracht 756,026-027,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.896.702,52.361.444
+21,Grand Hotel Amrath,Prins Hendrikkade 108,28,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.903.884,5.237.464
+22,Posthoornkerk,Haarlemmerstraat 124-126,029-030,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.890.404,52.381.128
+23,Atria Kennisinstituut,Vijzelstraat 20,31,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.892.838,52.365.706
+24,School De Eilanden,Grote Bickersstraat 102,032-033,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.890.062,5.238.677
+25,Crea Cultureel Studentencentrum,Nieuwe Achtergracht 170,34,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.912.861,5.236.328
+26,Doopsgezinde Singelkerk,Singel 452,35,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.888.631,52.367.702
+27,Dr. Sarphatihuis,Roetersstraat 2,038-039,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.910.555,52.364.691
+28,Het Cromhouthuis,Herengracht 366,40,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.886.331,52.368.528
+29,Architectuur Centrum Amsterdam (ARCAM),Prins Hendrikkade 600,41,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.912.479,52.371.503
+30,Akhnaton,Nieuwezijds Kolk 25,42,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.894.176,52.376.137
+31,De Witte Boei,Kleine Wittenburgerstr 201,043-044,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.921.819,52.371.414
+32,NH Caransa,Rembrandtplein 19,45,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.897.043,52.366.443
+33,Woonzorgcentrum De Rietvinck,Vinkenstraat 185,46,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.883.749,52.383.877
+34,De Kleine BOE,Kleine Wittenburgerstr 100,047-048,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.920.931,523.707
+35,Crea Cultureel Studentencentrum,Nieuwe Achtergracht 170,49,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.912.861,5.236.328
+36,Woonzorgcentrum De Rietvinck,Vinkenstraat 185,50,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.883.749,52.383.877
+37,De Toneelmakerij,Lauriergracht 99 C,51,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.878.745,52.370.725
+38,Galerie Fontana,Lauriergracht 11,52,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.882.141,52.371.584
+39,Basisschool de Kleine Reus,Nieuwe Looiersstraat 9,053-054,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,489.226,52.360.868
+40,Het Marnix,Marnixplein 1,56,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.878.485,52.377.985
+41,Centraal Station - Restaurant 1e klas,Stationspln 15-Perron 2B,057-058,A,rolstoeltoegankelijk,1,6:30 - 21:00 uur,Centrum,4.900.167,52.378.822
+42,American Hotel Amsterdam,Leidsekade 97,59,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.881.026,52.363.823
+43,Stichting De Oude Gracht,Keizersgracht 218 B,060-061,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.884.545,52.373.239
+44,Noorderkerk,Noordermarkt 44,62,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,488.631,52.379.538
+45,Het Bushuis,Kloveniersburgwal 48,63,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.898.126,52.370.797
+46,UvA - locatie P.C. Hoofthuis,Spuistraat 134 - 3e etage,64,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.889.837,52.374.097
+47,De Vinse School,Palmstraat 7,65,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.884.626,52.381.714
+48,De Rode Hoed,Keizersgracht 100,66,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.887.275,52.377.349
+49,Noorderkerk,Noordermarkt 44,67,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,488.631,52.379.538
+50,Museumwerf `t Kromhout,Kruithuisstraat 25,068-069,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.920.445,52.367.975
+51,Amsterdam Museum,Sint Luciënsteeg 27,70,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.890.714,52.370.488
+52,Bezoekerscentrum De Nederlandsche Bank,Sarphatistraat 1 - 3,071-072,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.901.311,52.360.187
+53,Academie voor Theater en Dans,Jodenbreestraat 3,73,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.901.663,52.369.598
+54,Conservatorium van Amsterdam,Oosterdokskade 151,74,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.908.907,52.375.955
+55,Ateliers Westerdok,Westerdok 318,76,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.891.647,52.384.314
+56,De Noorderspeeltuin,Tweede Lindendwarsstraat 10,80,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Centrum,4.882.447,52.379.539
+57,OBA Javaplein,Javaplein 2,81,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.938.764,52.364.154
+58,Kindervreugd,Kramatweg 31 A,82,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.946.451,52.364.776
+59,Flevoparkschool,Soembawastraat 61,84,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.943.967,52.363.554
+60,Verenigingsgebouw Batavia,Tidorestraat 107,87,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.940.738,5.236.054
+61,Havo De Hof,Ingang Wijttenbachstraat,88,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Oost,4.929.081,52.360.648
+62,Flevoparkschool,Soembawastraat 61,90,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.943.967,52.363.554
+63,Loods 6,KNSM-laan 143,91,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.938.778,52.377.267
+64,OBS De Kleine Kapitein,Tosaristraat 30 A,92,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.922.795,5.237.921
+65,Int. Instituut voor Sociale Geschiedenis,Cruquiusweg 31,93,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.939.289,52.368.875
+66,De Nieuwe KHL,Oostelijke Handelskade 44,94,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Oost,4.936.285,52.374.049
+67,A08 Events Amsterdam,KNSM-laan 808,95,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.946.346,52.376.765
+68,Basisschool Onze Toekomst,Bataviastraat 24 bg,97,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,494.217,52.361.228
+69,BAC Amsterdam,R.J.H. Fortuynplein 4,98,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.946.599,52.372.057
+70,Int. Instituut voor Sociale Geschiedenis,Cruquiusweg 31,99,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.939.229,52.368.973
+71,De Eester,C. van Eesterenlaan 266,100,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.938.125,52.370.713
+72,Stichting Meevaart,Balistraat 48A,101,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.933.901,52.363.021
+73,Basisschool de Waaier,Obiplein t.o. 87. zij-ingang,103,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.938.816,5.236.046
+74,Stayokay Amsterdam Oost,Timorplein 21,104-106,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.935.507,52.365.355
+75,De Indische Buurt School,Balistraat 79,107,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Oost,4.934.707,52.363.222
+76,Stichting Flexbieb IJburg,Talbotstr 46 - ingang Maria Austriastraat,108,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.994.624,52.357.755
+77,De Binnenwaai,Ed Pelsterpark 2,109,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.995.941,52.356.618
+78,Basisschool De Archipel,Franz Zieglerstraat 11,110,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,5.007.258,52.353.159
+79,OBA IJburg,Diemerparklaan 79,111,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.996.939,52.356.613
+80,Montessorischool Steigereiland,John Hadleystraat 4,112,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Oost,4.982.205,52.360.985
+81,abbs De Zuiderzee,Brigantijnkade 51,113,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.987.533,52.362.738
+82,Café Kanis en Meiland,Levantkade 127,114,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.940.506,52.376.339
+83,IJburg College 1,Pampuslaan 1,115,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,5.004.339,52.351.289
+84,MKC Zeeburgereiland,Faas Wilkesstraat 451,117,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.969.942,52.372.456
+85,Willibrordschool IJburg,Diemerparklaan 11,118,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.993.494,52.354.453
+86,IJburg College 2,Geertje Wielemaplein 1,119,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.968.938,52.371.499
+87,Basisschool Frankendael. locatie Hogeweg,Hogeweg 63,120,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,493.485,52.356.338
+88,Basisschool De Dapper,Pieter Nieuwlandstraat 3,122,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.926.165,5.236.149
+89,Kinderboerderij De Werf,Archimedeslaan 59,123,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.944.795,52.354.084
+90,The Student Hotel Amsterdam City,Wibautstraat 129,125,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.913.203,52.354.564
+91,Hogeschool van Amsterdam. Wibauthuis,Wibautstraat 3 A,126,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.909.481,52.359.438
+92,Ouderencentrum De Gooyer,Von Zesenstraat 298,128,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.926.929,52.364.316
+93,Woonzorgcentrum Kastanjehof,Kastanjeplein 60,129,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.923.098,52.358.575
+94,Sportzaal J.F. van Hengelstraat,J.F. van Hengelstraat 100,130,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.945.738,52.374.399
+95,Openbare Basisschool De Kaap,Christiaan de Wetstraat 23,131,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.919.061,52.354.461
+96,Gymzaal Villa Bons,Galileiplantsoen 39,133,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.938.894,52.354.169
+97,Buurtcentrum Kraaipan,Hofmeyrstraat 67,134,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.917.362,52.351.327
+98,Montessori College Oost,Polderweg 3,135,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.929.797,52.358.062
+99,Verenigingsgebouw O Pontania,Roomtuintjes 233,136,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,492.912,52.365.411
+100,Gymzaal Metis Montessori Lyceum,Tweede Oosterparkstraat 33,137,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.912.936,52.356.172
+101,Hofkerk,Linnaeushof 94. Ingang Pastorie,138,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.933.461,523.529
+102,Gymzaal Metis Montessori Lyceum,Tweede Oosterparkstraat 33,139,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.912.936,52.356.172
+103,Sporthal Wethouder Verheij,Polderweg 300,140,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.931.355,5.235.788
+104,Servicepunt Het Brinkhuis,Brink 45,141-142,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.943.263,52.339.986
+105,Barbaraschool,Eikenplein 3,143,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.921.884,52.358.166
+106,Café Restaurant Polder,Science Park 203,144,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.952.643,52.354.625
+107,Kerk de Bron,Middenweg 74,145,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.934.554,52.350.828
+108,Gymzaal Villa Bons,Galileiplantsoen 39,146,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.938.894,52.354.169
+109,UvA Science Park,Science Park 904,147,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.955.698,52.354.412
+110,Koningskerk,Van `t Hofflaan 20,148,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.936.267,52.348.336
+111,De Krugerkamer,Krugerplein 17,150,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.920.635,52.354.135
+112,Basisschool Frankendael (Von Liebigweg),Von Liebigweg 68,151,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.927.112,52.342.413
+113,Tugelahuis,Tugelaweg 59 A,152,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.920.764,52.355.816
+114,Buurtcentrum Oosterpark,Derde Oosterparkstraat 159,153,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.920.232,52.357.522
+115,Scouting Oost 1,Kruislaan 224,154,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.943.774,52.349.056
+116,Wijkservicepunt Hoekhuis,Fizeaustraat 3,156,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.926.776,52.345.073
+117,Meininger Hotel Amsterdam Amstel,Julianaplein 6,158,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.919.445,52.345.844
+118,Waternet,Korte Ouderkerkerdijk 7,160,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Oost,4.917.892,52.340.059
+119,Weesper,Weesperzijde 144,161,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.913.073,52.348.901
+120,Grand Cafe Frankendael,Middenweg 116,162,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.937.625,5.234.906
+121,OLVG locatie Oost,Oosterpark 9,163,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,491.692,52.358.389
+122,Oosterparkkerk,Oosterpark 5,164,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,491.589,52.360.021
+123,Muiderkerk,Linnaeusstraat 37,166,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.924.416,5.236.169
+124,BOOST Transvaal,Tegenover ingang Danie Theronstraat 2,167,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.915.733,52.352.651
+125,QO Amsterdam,Amstelvlietstraat 4,168,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.920.948,52.338.264
+126,Het Parkhuis,Anfieldroad 110,169,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.947.924,52.343.508
+127,Sportzaal J.F. van Hengelstraat,J.F. van Hengelstraat 100,170,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.945.738,52.374.399
+128,Gymzaal Laterna Magica,Eva Besnyöstraat 491,171,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,500.796,52.350.079
+129,4e Montessorischool De Pinksterbloem,ingang Oetgensstraat - gymzaal,173-174,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,490.846,52.354.742
+130,Panama Amsterdam,Oostelijke Handelskade 4,175,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Oost,4.930.431,52.374.997
+131,Sporthal Wethouder Verheij,Polderweg 300,177,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.931.355,5.235.788
+132,Gymzaal Lidwinaschool,Simon Stevinstraat 48,178-179,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Oost,4.924.993,52.352.795
+133,Vrije Universiteit Amsterdam,De Boelelaan 1105,200,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.866.482,52.334.586
+134,Doven Ontmoetings Centrum,Stadhouderskade 89,201,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.895.321,52.357.619
+135,V.B.S.K.  Albert Cuyp,Albert Cuypstraat 241,203,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.897.606,5.235.672
+136,Studio Automat Amsterdam,Tweede Jan Steenstraat 80-82,204,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.902.129,52.356.523
+137,Oranjekerk,2e Van der Helststraat 1-3,206,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.895.431,52.352.937
+138,Oranjekerk,2e Van der Helststraat 1-3,207,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.895.431,52.352.937
+139,Het Amsterdams Lyceum,Pieter Lastmankade 1,208,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.864.674,52.351.034
+140,NH Museum Quarter,Hobbemakade 50,210,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.886.122,52.355.819
+141,Amsterdam UMC. locatie VUmc,De Boelelaan 1117,211,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.859.835,52.334.646
+142,De Kleine Valk,Marie Heinekenplein 5,212,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.891.463,52.357.333
+143,De Edelsteen,Smaragdplein 3,213-214,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.905.669,52.350.893
+144,Senioren bewonersruimte,Servaes Noutsstraat 3 t/m 99,215,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.904.358,52.355.409
+145,Het Amsterdams Lyceum,Pieter Lastmankade 1,216,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.864.674,52.351.034
+146,3e Daltonschool hoofdgebouw,Van Ostadestraat 201-203,217-218,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.897.543,52.353.107
+147,Buurtgebouw HdK,Henrick de Keijserplein 45,219,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.898.064,52.351.105
+148,Sportcentrum De Pijp,Lizzy Ansinghstraat 88,221,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,489.372,52.349.748
+149,Rijn 58,Rijnstraat 58,222,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,490.485,52.346.594
+150,d`Oude Raai,Ferdinand Bolstraat 321,223,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.891.699,52.349.317
+151,Apollohal,Stadionweg 5 (linker ingang),224,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.884.449,52.348.064
+152,Gezond in Zuid Paramedisch centrum,Ruysdaelstraat 49 A (rode G op de deur),225,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.883.663,52.353.903
+153,Cornelis Vrijschool,Van de Veldestraat 3,226,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.879.812,52.359.584
+154,IVKO school,Rustenburgerstraat 15,227,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,490.577,52.353.779
+155,De Coenen,Joh.M. Coenenstraat 4-6,229-230,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.881.535,52.352.626
+156,Obrechtkerk,Jacob Obrechtstraat 30,232,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.875.349,52.355.773
+157,Gymzaal Nicolaas Maesschool,Heinzestraat 9,233,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.876.868,52.352.579
+158,Boxing Gym Abov,Amstelkade 13,234,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.907.507,52.349.211
+159,Stichting Munganga,Schinkelhavenstraat 27 hs,236,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.854.039,52.354.285
+160,Basisschool Elout,Cornelis Krusemanstraat 68,237,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,485.887,5.235.038
+161,OBS De Dongeschool,Geulstraat 9,238,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.893.628,5.234.484
+162,De Derde Schinkel,Derde Schinkelstraat 9,239,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.855.229,52.352.907
+163,Flatgebouw Baarsstraat,Baarsstraat 31,240,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.854.708,52.349.858
+164,Hervormd Lyceum Zuid,Brahmsstraat 7,243,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.879.061,52.348.194
+165,St. Ignatius Gymnasium,ingang Adama van Scheltemaplein,244-245,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.873.936,52.349.772
+166,Huis van de Wijk Olympus / Europaschool,Hygiëaplein 10,246,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.862.857,5.234.709
+167,Willem de Zwijgerkerk,Olympiaweg 14,247-248,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.863.064,52.349.436
+168,Olympiaschool,Stadionkade 113 B,249,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,486.227,52.343.321
+169,Olympisch Stadion,Olympisch Stadion 2,250,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.855.118,52.343.802
+170,Bibliotheek Olympisch Kwartier,Laan der Hesperiden 18,252,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.855.585,52.345.242
+171,Gymzaal,Willem Witsenstraat 8,253,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.870.217,52.351.454
+172,OBS Oscar Carré,1e Jan vd Heijdenstr 161,255,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.893.175,52.353.862
+173,Stichting Munganga,Schinkelhavenstraat 27 hs,256,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.854.039,52.354.285
+174,Dep. OBS De Notenkraker,Leiduinstraat 13,257-258,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.847.085,52.353.957
+175,OBS Oscar Carré,1e Jan vd Heijdenstr 161,259,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.893.175,52.353.862
+176,Cornelis Vrijschool,Van de Veldestraat 3,260,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.879.812,52.359.584
+177,Gymzaal Nicolaas Maesschool,Heinzestraat 9,261,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.876.868,52.352.579
+178,HoofdKwartier,Hoofddorpweg 25,262,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.850.762,52.350.882
+179,Tobiasschool,Rietwijkerstraat 55,263-264,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.847.155,52.349.437
+180,OBS De Dongeschool,Geulstraat 9,265,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.893.628,5.234.484
+181,Anne Frankschool,Niersstraat 41,266,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.894.002,52.342.802
+182,Pastorie Vredeskerk,Pijnackerstraat 9,267-268,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.890.046,52.350.164
+183,Anne Frankschool,Niersstraat 41,270,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.894.002,52.342.802
+184,Knijn Bowling,Scheldeplein 3,271,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.891.359,52.344.327
+185,Centrum Karunika,Meerhuizenplein 11,272,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.908.231,52.347.381
+186,gymzaal De Rivierenschool,Lekstraat 33 A,274-275,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,490.423,52.344.237
+187,Remise Lekstraat,Kromme-Mijdrechtstraat 25,276-277,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.909.085,52.345.757
+188,gymzaal De Rivierenschool,Lekstraat 33 A,278,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,490.423,52.344.237
+189,Buurtgebouw HdK,Henrick de Keijserplein 45,283,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.898.064,52.351.105
+190,Thomaskerk,Prinses Irenestraat 36,286,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.874.877,52.341.974
+191,Revalidatie- en Zorgcentrum Vreugdehof,De Klencke 111,287,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.884.272,52.333.854
+192,NH Amsterdam Zuid,Van Leijenberghlaan 221,289,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,488.004,52.326.664
+193,Zorgcentrum De Buitenhof,Nieuw Herlaer 2,290,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.888.196,52.326.662
+194,Andrieskerk,Arent Janszoon Ernststr 869,292,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.868.098,52.331.843
+195,ROC Zuid,Europaboulevard 13,293-294,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.892.806,52.339.588
+196,Gymzaal bij school De Ark,Zuid-Hollandstraat 7,295-296,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuid,4.874.745,52.326.623
+197,Menno Simonszhuis/Dynamo,Noordhollandstraat 17 A,297,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.866.514,52.326.794
+198,Marius ten Catehof,Van Nijenrodeweg 937,298,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.858.821,52.327.317
+199,Woonzorgcentrum Buitenveldert,Doornburg 2,299,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.861.367,52.322.888
+200,WTC Toren A t/m G,Strawinskylaan 77 ingang Zuidplein,300,A,rolstoeltoegankelijk,1,7:30 - 20:00 uur,Zuid,4.873.532,52.340.198
+201,Sporthallen Zuid,Burgerweeshuispad 54,301,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.854.107,52.339.977
+202,Portocabin IJselplein,t/o Reggestraat 20,302-303,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuid,4.901.743,52.347.543
+203,Multifunctioneel Centrum Binnenhof,Arent Janszoon Ernststr 112,305-306,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,487.823,52.332.309
+204,Vrije Universiteit Amsterdam,De Boelelaan 1105,307,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuid,4.866.482,52.334.586
+205,Kinderopvang Parvaneh,Van Gentstraat 16 A,311,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.851.842,52.383.117
+206,KBS De Boomgaard,Gibraltarstraat 61,313,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.850.041,52.383.837
+207,School Tijl Uilenspiegel,Tijl Uilenspiegelstraat 11 - ingang achterzijde t.h.v. Lanseloetstr,315-316,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.849.172,52.378
+208,Brede School de Springplank,Robert Scottstraat 28,317,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.846.406,52.373.556
+209,Wachterliedpaviljoen,Wachterliedplantsoen 2,319,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.853.598,52.377.489
+210,Narcis-Queridoschool,Jan den Haenstraat 41,321,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,486.064,52.379.372
+211,Centrum voor Ouderen De Boeg,Hoofdweg 495,325-326,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.846.639,52.376.146
+212,De Volksuniversiteit,Bos en Lommerplein 176,327,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,484.514,52.378.646
+213,Bos en Lommerschool,Meimorgenstraat 2,328,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.840.039,52.379.027
+214,de Wiltzangh,Hertspieghelweg 55,330,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,485.055,52.381.817
+215,t Landhuis,Gerard Callenburgstraat 38,331,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.859.231,52.379.276
+216,MBO College West,Laan van Spartaan 2,334,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.840.608,52.373.377
+217,A.K.C. Blauw-Wit,Joos Banckersweg 18 A,335,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.856.703,52.375.778
+218,Molen van Sloten,Akersluis 10,341,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.792.208,52.341.561
+219,Vrouw en Vaart,President Allendelaan 733,342,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.805.334,52.365.677
+220,Het Talent,gymlokaal ingang Veldzicht,343-344,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.799.059,52.362.806
+221,Osdorpse Montessorischool,Hoekenes 59,346,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,480.261,52.353.971
+222,Stadsloket Nieuw-West,Osdorpplein 1000,347,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,480.667,52.357.775
+223,Dienstencentrum Osdorperhof,Pieter Calandlaan 84,348,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.812.611,52.354.748
+224,Ichthusschool,Louis Davidsstraat 103,349,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,481.066,52.352.402
+225,Verenigingsgebouw Nivon,Ouwerdingenpad 3,351,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.795.137,52.362.931
+226,Zorgcentrum Leo Polak,Saaftingestraat 8,352,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.789.133,52.362.865
+227,De Wachter,Wolbrantskerkweg 54 - 56,354,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.797.409,52.356.606
+228,Nieuw Amstelrade,Clauskindereweg 21,356,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.794.843,52.355.245
+229,Basisschool de Odyssee,Cycladenlaan 2 A,357,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,479.305,52.348.837
+230,Huis van de Wijk De Aker,Noorderakerweg 2,359-361,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.782.149,52.355.055
+231,Jenaplanschool Atlantis,Schuitenhuisstraat 5,362,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.786.858,52.357.443
+232,Ymere Amsterdam-West,Anderlechtlaan 200,363,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.811.123,52.342.661
+233,Horizon Brenner,Brenner 9 - ingang Monte Rosaplein-schoolpleinzijde,364-365,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.775.411,52.350.814
+234,Obs de Horizon,zij-ingang Iwan Kantemanplein,366-367,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.788.389,5.235.053
+235,OBA Osdorp,Osdorpplein 16,371,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.806.788,52.358.926
+236,Basisschool De Wereldburger - gymgebouw,Koos Vorrinkweg 5,376-377,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.800.052,5.235.315
+237,De Spaarndammerhout,Revaleiland 1,391-392,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.878.756,52.392.789
+238,Museum Het Schip,Oostzaanstraat 45,393,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.873.952,52.390.315
+239,De Bogt Westerbeer,Polanenstraat 6,394-395,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,487.833,52.389.003
+240,De Zeeheld,Roggeveenstraat 14,396-397,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.886.825,52.389.875
+241,De Koperen Knoop,Van Limburg Stirumstraat 119,398-399,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.876.704,5.238.346
+242,Westerparkschool,Van Hogendorpplein 11,401-402,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,487.704,52.384.882
+243,School De Bron,Van Beuningenstraat 141,403-404,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.874.484,52.382.336
+244,Cartesius Lyceum,ingang Van Oldenbarneveldtplein 16,405,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.876.429,52.377.968
+245,Van Hogendorphal,Van Hogendorpstraat 921,406,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.867.589,52.381.641
+246,Amsta locatie De Poort,Hugo de Grootkade 20,408-409,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.873.371,52.373.209
+247,Marcanti College,Jan van Galenstraat 31,410,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.866.137,52.375.217
+248,Dependance Westerparkschool,Van Hallstraat 621,411-412,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.872.931,52.379.489
+249,Openbare Bibliotheek Amsterdam,Van Hallstraat 615,413,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.872.048,52.379.665
+250,Buurthuis De Havelaar,Douwes Dekkerstraat 2,421,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.865.416,52.369.166
+251,Galerie Beeldend Gesproken,Hannie Dankbaarpassage 23,423,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.868.823,52.366.601
+252,Schoolgebouw ROC,Da Costastraat 64,424,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.874.382,52.368.351
+253,Brede School De Kinkerbuurt,ingang Nicolaas Beetsplantsoen,426-427,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.865.762,52.364.655
+254,Schoolgebouw Winterkoninkje,Jan Pieter Heijestraat 45,428-429,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.863.009,52.365.317
+255,Leonardo da Vinci school,Nassaukade 342 A,430,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.876.066,52.367.468
+256,Mentrum,1e C Huygensstr 38,431-432,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.873.646,5.236.469
+257,Vondelstede,Anna van den Vondelstr 30,433-434,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.869.732,5.236.035
+258,Wackersacademie,Eerste Helmersstraat 271,436-437,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.864.048,52.360.585
+259,Annie M.G. Schmidt,Pieter Langendijkstraat 44,439-440,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.860.601,52.360.355
+260,De Nieuwe Liefde,Da Costakade 102,441-442,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.871.648,52.369.804
+261,De Klinker,Borgerstraat 45,443,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.867.765,52.365.374
+262,Philadelphia Zorg Amsterdam,Kinkerstraat 42,444,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,487.405,52.367.846
+263,Conscious Hotel The Tire Station,Amstelveenseweg 3. via Sticky Fingers,445,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.855.382,52.357.275
+264,Theater de Cameleon,Derde Kostverlorenkade 35,446,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.855.954,52.358.608
+265,Nieuw Vredenburgh,Postjesweg 125,460-461,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.851.252,52.363.827
+266,Aslan Muziekcentrum,Corantijnstraat 9,462-463,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.852.408,52.361.675
+267,Joop Westerweelschool,Balboaplein 44,465-467,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.856.198,52.368.855
+268,De Wending,Witte de Withplein 5,468,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.858.373,52.368.721
+269,Openbare Bibliotheek Amsterdam,Mercatorplein 89,469-470,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,485.026,52.369.386
+270,Rosa Boekdrukkerschool,Vancouverstraat 3-5,471-472,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.855.354,52.373.165
+271,School De Roos,Reinier Claeszenplein 12,474-475,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,West,4.860.818,52.374.232
+272,Al Maes,Cornelis Dirkszstraat 6,477,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.857.089,52.371.717
+273,Het Sieraad,Postjesweg 1,479,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.859.348,52.364.546
+274,Dansschool Meneer de Wit,Baarsjesweg 202,480,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.860.249,52.365.323
+275,Buurthuis Jacob Maris,Columbusplein 253,482,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,West,4.855.282,52.365.705
+276,Chassé Dance Studios,Chasséstraat 64,483-484,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,West,4.861.485,52.370.011
+277,Huizingaschool,Jacob Geelstraat 42 - (ingang links om de hoek),491,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.830.222,52.360.791
+278,De Schutse,Comeniusstraat 20,493,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.822.591,52.359.443
+279,BSO De Groeiwereld,Lakenhalstraat 2,494,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.832.805,52.364.371
+280,Pro Rege Basisschool,Hemsterhuisstraat 87 A,495,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.823.233,5.236.092
+281,Calvijn College,Pieter Calandlaan 3,496,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.831.572,52.356.187
+282,Huis van de wijk Het Anker,Jacques Veltmanstraat 427,497,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.833.091,52.353.246
+283,Obs De Vlaamse Reus,Hechtelstraat 49 (zij-ingang),500-501,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.817.797,52.347.475
+284,Hogeschool Ipabo,Jan Tooropstraat 136,503-504,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.836.892,52.367.482
+285,Verpleeghuis Hof van Sloten,Louwesweg 10,505,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.823.683,52.347.386
+286,Calvijn College,Pieter Calandlaan 3,506,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.831.572,52.356.187
+287,Alexander Roozendaalschool,Jan Sluijtersstraat 3 (ingang gymzaal),508,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.839.529,52.359.666
+288,Westcord Fashion Hotel Amsterdam,Hendrikje Stoffelsstraat 1,509,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.844.237,52.357.575
+289,Brede school Fiep Westendorp,Overschiestraat 168 A,510-511,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.839.251,52.348.879
+290,R.K. Basisschool De Mijlpaal,Westmallepad 11,513-514,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.806.441,52.347.285
+291,Dependance De Mijlpaal,Anderlechtlaan 1,515-516,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.812.109,52.344.724
+292,Oostoever,Bonnefantenstraat 10,517,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.829.134,5.236.563
+293,Cordaan,Ottho Heldringstraat 13 A,518,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.832.946,52.349.596
+294,Woon- en Zorgcentrum De Riekerhof,Johan Jongkindstraat 3,520,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.840.225,52.359.148
+295,Regenbooggemeente,Van Ollefenstraat 9,521,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.825.336,52.354.782
+296,Het Meervoud,August Allebéplein 5,523-524,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.839.032,52.363.088
+297,Leger des Heils De Kandelaar,Burg Vening Meineszlaan 64,525,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.833.055,52.383.228
+298,Buurtkamer Tante Ali,Burg Vening Meineszlaan 185,527,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.823.528,52.382.752
+299,Stichting De Brug,Aalbersestraat 248 A,528,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.798.156,52.379.941
+300,Al Wafa Islamitische Basisschool,Harry Koningsbergerstr 30,531,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.836.715,52.380.594
+301,Visio Amsterdam Onderwijs,Slotermeerlaan 103,532,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.819.923,5.237.869
+302,Basisschool Veerkracht,Van Moerkerkenstraat 89,536,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.810.319,52.378.617
+303,Woonzorgcentrum Nieuw Geuzenveld,Cornelis Outshoornstraat 126,537,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.796.306,52.382.107
+304,`t Koggeschip Katholieke Basisschool,Abraham Kuyperplein 2,538,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.802.538,5.238.292
+305,OBA Slotermeer,Slotermeerlaan 103 E,539,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.820.238,52.379.312
+306,Tuinstadhuis Geuzenveld,Plein `40-`45 nr. 1,540-541,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.821.152,52.379.101
+307,Timotheusschool,Sam van Houtenstraat 2,542,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.805.359,52.379.474
+308,SBO De Kans,Thomas van Aquinostraat 2,544,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.812.439,52.372.543
+309,Spring High,Herman Poortstraat 17,546,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.831.551,52.376.624
+310,Amsta De Raak,Dr. H. Colijnstraat 431,547,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.806.223,52.379.685
+311,Noordmansschool,Louis Couperusstraat 131,548,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.824.438,52.375.899
+312,PlusPunt Eigenwijks Geuzenveld,Albardakade 5-7,550,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Nieuw-West,4.802.734,52.378.023
+313,Oase/De Bron,Willem Kloosstraat 1,551,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.822.709,52.375.576
+314,Pieter Jelles Troelstraschool,Dr. H. Colijnstraat 2,555,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.806.603,52.375.291
+315,Meininger Hotel,Orlyplein 1,556,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Nieuw-West,4.837.399,52.390.609
+316,Hotelschool The Hague,Jan Evertsenstraat 171,561,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Nieuw-West,4.843.789,52.369.024
+317,Stadsdeelkantoor Amsterdam-Noord,Buikslotermeerplein 2000,600,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.932.927,52.400.828
+318,Brede Mgr. Bekkersschool,Volendammerweg 160,601,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.959.094,52.391.884
+319,Evean Korthagenhuis,Amerbos 590,602,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.939.881,52.404.836
+320,Het Tolhuis,Buiksloterweg 7,603,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,490.488,52.383.039
+321,Het Schouw,Dollardplein 2,604,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.942.726,52.398.052
+322,Wijkgebouw Schellingwoude,Wijkergouw 12,605,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.965.092,52.383.736
+323,Muziekschool Noord,Alkmaarstraat 10,606,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.951.133,52.394.767
+324,OBS De Driemaster,Binnenvaart 1,607,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.920.865,52.407.693
+325,OBS Oranje Nassauschool,Ribesstraat 15,608,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.915.505,5.239.348
+326,Het Zwanenmeer,Beemsterstraat 491,610,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.949.394,52.395.309
+327,Museum Amsterdam Noord,Zamenhofstraat 28 A,611,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.926.021,52.388.129
+328,Middelbare School Hogelant,Duinluststraat 20,612,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.953.445,52.395.692
+329,Speeltuinvereniging Nieuwendam,Monnikendammerplantsoen 12 A,613,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.950.495,52.389.435
+330,Protestantse Gemeente Nieuwendam,Brede Kerkepad 6-8 (ingang via hek),614,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.940.572,52.391.636
+331,De Die,Loenermark 900,616,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.932.036,5.239.891
+332,OBS De Klimop,Varenweg 6,617,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.916.129,52.390.076
+333,ROC-TOP,NDSM-straat 1,618,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.888.706,52.404.236
+334,Buurtcentrum de Driehoek,Waddenweg 116,619,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.928.591,52.393.882
+335,OBS De Kinderboom,Adelaarsweg 113 (ingang speelplaats),621,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.920.273,52.388.601
+336,OBS Het Vogelnest,Mussenstraat 26,622,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.917.016,5.238.679
+337,Buurtcentrum De Meeuw,Motorwal 300,624,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.917.775,5.238.443
+338,Gebouw `t Laantje,Meteorenweg 19 A,627,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.890.684,52.409.934
+339,Kringloopbedrijf De Lokatie,Distelweg 85,628,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.904.744,5.239.279
+340,Buurtcentrum De Valk,IJplein 3,629,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.911.093,52.382.992
+341,Buurtvereniging Bloemenkwartier,Wingerdweg 260 B,630,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.918.718,5.239.671
+342,Huis van de Wijk,Waterlandplein 302,632,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.954.837,523.931
+343,OBS De Bonkelaar,Molenwijk 3,634,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.889.737,52.421.029
+344,Eduard Douwes Dekkerhuis,Schoenerstraat 11,635,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.907.701,52.404.638
+345,Huis van de Wijk,Bezaanjachtplein 243-247,636,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.916.941,52.407.695
+346,Senioren-flat de Wasknijper,G.J. Scheurleerweg 15,637,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,492.927,52.404.993
+347,OBS De Vier Windstreken,Parlevinker 11,638,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.921.948,52.410.986
+348,OBA Molenwijk,Molenwijk 21,640,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.892.978,52.417.798
+349,Cordaan - Het Anker,Klinkerweg 73,642,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.895.726,52.407.241
+350,SBO De Zeppelin,Bessenpad 1-ingang Mandarijnenstr t/o 12,644,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.894.739,52.410.067
+351,Orion College Amsterdam,Beijerlandstraat 2,645,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.930.413,52.392.451
+352,OBA van der Pek,Gentiaanstraat 1,646,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.911.861,52.390.823
+353,Twiskehuis,Watermanstraat 2,649,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.880.385,52.416.083
+354,Buurtcentrum De Evenaar,Kometensingel 189,650,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.886.461,52.414.374
+355,OBS Twiskeschool,Pandorinastraat 7A (ingang hoofdgebouw),651-652,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.902.019,52.419.004
+356,OBS De Krijtmolen,Molenwijk 8,654,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.891.896,52.419.861
+357,OBS De Vijfsterren,Markengouw 245 A,655,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.959.115,52.394.293
+358,Basisschool de Satelliet,Kometensingel 54 (hoofd ingang),656,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,489.364,52.415.087
+359,Dorpshuis de Beke,Dorpsweg Ransdorp 29,657,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Noord,4.994.303,52.392.374
+360,Basisschool Cosmicus Impuls,Het Breed 10,658,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.933.777,52.398.189
+361,Stichting !WOON team noord,J. Drijverweg 5,659,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.944.264,52.401.482
+362,Over-Y College,Floraweg 170,660,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.912.481,52.400.146
+363,Buiksloterkerk,Buiksloterkerkpad 10,663,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.916.093,52.401.796
+364,Basisschool IKC Noordrijk,Braeburnstraat 1,665,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Noord,4.903.389,52.408
+365,Kerk de Ark,Aakstraat 60,670,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,491.271,5.240.757
+366,Vrije school Kairos,Wognumerplantsoen 2-4,671,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.949.252,52.387.444
+367,S.O. De Heldring,Bosrankstraat 1,673,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Noord,4.906.542,52.397.767
+368,Stadsloket Zuidoost,Anton de Komplein 150,701,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.956.479,52.316.235
+369,Basisschool Klaverblad,Darlingstraat 1,703,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.949.801,52.319.761
+370,Buurthuis Holendrecht,Holendrechtplein 38,704,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.964.845,5.229.855
+371,Wooncentrum De Venser,Berthold Brechtstraat 1,706,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.946.814,5.231.779
+372,Wooncentrum De Drecht,Niftrikhof 1,708,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.962.287,52.299.278
+373,Buurthuis Gein,Wisseloord 83,712,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.987.048,5.229.594
+374,School De Ster,Woudrichemstraat 8,714,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.987.694,52.294.235
+375,Jongerencentrum No Limit,Geldershoofd 80,718,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.971.898,52.323.462
+376,Portocabin naast Station Amsterdam,Bijlmer Arena - Hoekenrode,720,C,niet rolstoeltoegankelijk,1,7:30 - 19:00 uur,Zuidoost,4.948.392,52.312.458
+377,School Het Gein,Cornelis Aarnoutsstraat 80,722-723,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.993.488,52.298.766
+378,Basisschool De Schakel,Alexander Dumaslaan 17,724,C,niet rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.941.605,523.239
+379,Academisch Medisch Centrum (AMC),Meibergdreef 9,727,AP,rolstoeltoegankelijk met GPA,1,7:00 - 19:00 uur,Zuidoost,4.957.813,52.295.065
+380,Serviceflat Koornhorst,Koornhorst 32,728,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.986.583,52.318.327
+381,Woongroep Surinaamse Ouderen,Randwijkhof 20-50,729,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuidoost,4.970.839,52.295.606
+382,Buurtcentrum De Bonte Kraai,Kraaiennest 68,732,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.980.067,52.317.235
+383,Serviceflat Garstkamp,Garstkamp 32,733-734,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.980.272,52.325.244
+384,Evean Henriette Roland Holst,Kortvoort 100,735,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.969.784,52.314.278
+385,Matchzo,Stammerlandweg 10,738,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,5.014.675,52.308.811
+386,Basisschool Samenspel,Kantershof 641,739,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuidoost,4.987.514,52.319.238
+387,Open Schoolgemeenschap Bijlmer,Gulden Kruis 5,740,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuidoost,4.965.388,52.318.622
+388,Basisschool Polsstok,EGoli 2,742,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,496.035,52.322.388
+389,Stichting MaDi,Karspeldreef 1009,746,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.975.072,52.314.962
+390,Wijkcentrum Ala Kondre,Krimpertplein 5,753,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuidoost,4.969.437,52.316.884
+391,Lotusschool,Mijehof 406,754,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.968.598,52.300.074
+392,OBS Nellestein,Leksmondplein 31,755,B,rolstoeltoegankelijk met hulp,0,7:30 - 21:00 uur,Zuidoost,4.980.628,52.308.798
+393,OBA Bijlmerplein/Imagine IC,Bijlmerplein 393,756,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.953.509,52.315.478
+394,Basisschool Mobiel,Reigersbos 313,757-758,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,497.575,52.294.014
+395,Basisschool Shri Laksmi,Janusz Korczakstraat 73,762,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.956.643,52.318.995
+396,Sporthal Gaasperdam,Ravenswaaipad 5,765,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.978.245,52.296.809
+397,Ir. Lely Lyceum,Ravenswaaipad 3,766,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Zuidoost,4.977.556,52.296.852
+398,Basisschool De Achtsprong,Huntum 14,767,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.960.203,52.308.654
+399,Kidz Friends,Hogevecht 138 C,769,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.955.916,52.309.277
+400,Jongerencentrum No Limit,Geldershoofd 80,771,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Zuidoost,4.971.898,52.323.462
