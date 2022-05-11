@@ -1,4 +1,4 @@
-OBJECTNUMMER,Naam,Adres,Stemdistrict,Toegankelijkheid_code,Toegankelijkheid,Open_speciaal,Openingstijden,Stadsdeel,LNG,LAT
+OBJECTNUMMER,Naam,Address,Stemdistrict,Toegankelijkheid_code,Toegankelijkheid,Open_speciaal,Openingstijden,Stadsdeel,LNG,LAT
 1,Stadhuis,Amstel 1,001-002,AP,rolstoeltoegankelijk met GPA,0,7:30 - 21:00 uur,Centrum,4.900.158,52.367.597
 2,Universiteitsbibliotheek Amsterdam,Singel 425,3,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.889.718,52.367.679
 3,Leger des Heils,Oudezijds Achterburgwal 45,4,A,rolstoeltoegankelijk,0,7:30 - 21:00 uur,Centrum,4.899.359,52.373.543
