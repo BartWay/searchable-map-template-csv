@@ -8,11 +8,11 @@ $(window).resize(function () {
 $(function() {
 
   SearchableMapLib.initialize({
-    filePath: 'data/chicago-flu-shot-locations-2019.csv',
+    filePath: 'data/stembureaus-amsterdam.csv',
     fileType: 'csv',
-    recordName: 'flu shot location',
-    recordNamePlural: 'flu shot locations',
-    map_centroid: [41.85754, -87.66231],
+    recordName: 'stembureaus-amsterdam',
+    recordNamePlural: 'stembureaus amsterdam',
+    map_centroid: [52.37533749338676, 4.901893856679057],
     defaultZoom:  11,
     defaultRadius: 1610,
     debug: false,
