@@ -8,10 +8,10 @@ $(window).resize(function () {
 $(function() {
 
   SearchableMapLib.initialize({
-    filePath: 'data/stembureaus-amsterdam.csv',
+    filePath: 'data/polling-stations-amsterdam-2017.csv',
     fileType: 'csv',
-    recordName: 'stembureaus-amsterdam',
-    recordNamePlural: 'stembureaus amsterdam',
+    recordName: 'polling station in Amsterdam',
+    recordNamePlural: 'polling stations Amsterdam',
     map_centroid: [52.37533749338676, 4.901893856679057],
     defaultZoom:  11,
     defaultRadius: 1610,
