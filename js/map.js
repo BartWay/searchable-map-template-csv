@@ -11,9 +11,9 @@ $(function() {
     filePath: 'data/polling-stations-amsterdam-2017.csv',
     fileType: 'csv',
     recordName: 'polling station in Amsterdam',
-    recordNamePlural: 'polling stations Amsterdam',
-    map_centroid: [52.37533749338676, 4.901893856679057],
-    defaultZoom:  11,
+    recordNamePlural: 'polling stations in Amsterdam',
+    map_centroid: [52.377956, 4.897070],
+    defaultZoom:  12,
     defaultRadius: 1610,
     debug: false,
   });
