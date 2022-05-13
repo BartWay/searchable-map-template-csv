@@ -8,7 +8,7 @@ $(window).resize(function () {
 $(function() {
 
   SearchableMapLib.initialize({
-    filePath: 'data/polling-stations-amsterdam-2017.csv',
+    filePath: 'data/polling-stations-amsterdam-2017.geojson',
     fileType: 'csv',
     recordName: 'polling station in Amsterdam',
     recordNamePlural: 'polling stations in Amsterdam',
