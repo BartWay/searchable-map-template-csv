@@ -3,7 +3,7 @@ var SearchableMapLib = {
 
   // parameters to be defined on initialize() 
   map_centroid: [],
-  defaultZoom: 9,
+  defaultZoom: 10,
   filePath: '',
   fileType: '',
   csvOptions: '',
@@ -25,7 +25,7 @@ var SearchableMapLib = {
     options = options || {};
 
     SearchableMapLib.map_centroid = options.map_centroid || [52.377956, 4.897070],
-    SearchableMapLib.defaultZoom = options.defaultZoom || 9,
+    SearchableMapLib.defaultZoom = options.defaultZoom || 10,
     SearchableMapLib.filePath = options.filePath || "",
     SearchableMapLib.fileType = options.fileType || "csv",
     SearchableMapLib.csvOptions = options.csvOptions || {separator: ',', delimiter: '"'},
