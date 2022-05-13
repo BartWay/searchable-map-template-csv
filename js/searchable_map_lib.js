@@ -25,9 +25,9 @@ var SearchableMapLib = {
     options = options || {};
 
     SearchableMapLib.map_centroid = options.map_centroid || [52.377956, 4.897070],
-    SearchableMapLib.defaultZoom = options.defaultZoom || 10,
+    SearchableMapLib.defaultZoom = options.defaultZoom || 12,
     SearchableMapLib.filePath = options.filePath || "",
-    SearchableMapLib.fileType = options.fileType || "csv",
+    SearchableMapLib.fileType = options.fileType || "geojson",
     SearchableMapLib.csvOptions = options.csvOptions || {separator: ',', delimiter: '"'},
     SearchableMapLib.listOrderBy = options.listOrderBy || "",
     SearchableMapLib.recordName = options.recordName || "result",
