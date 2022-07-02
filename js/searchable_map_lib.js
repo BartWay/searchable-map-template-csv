@@ -348,9 +348,9 @@ var SearchableMapLib = {
 
   // -----custom functions-----
   getIcon: function(type){
-    if (type == "C") return redIcon;
-    if (type == "AP") return blueIcon;
-    if (type == "B") return yellowIcon;
+    if (type == "Pharmacy") return redIcon;
+    if (type == "Government") return blueIcon;
+    if (type == "Other") return yellowIcon;
     return greenIcon;
   },
   // -----end custom functions-----
